@@ -21,5 +21,5 @@ It is designed as an HR Analytics tool to help organizations reduce attrition an
 ---
 
 ## 🖥️ Live Demo
-👉 [Click here to try the app](https://your-username-hranalytics.streamlit.app)  
+👉 [Click here to try the app](https://hr-analytics-employee-attrication-and-performance-2a48rx85cnmp.streamlit.app/)  
 
